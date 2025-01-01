@@ -5,11 +5,9 @@
 - ⚡ Fun fact: I'm not a failure.
 
 
-Instagram: [yukii.sen](https://www.instagram.com/yukii.sen/)
-
-Twitter: [notarchivist](https://x.com/notarchivist)
-
-Bluesky: [yukiisen](https://bsky.app/profile/yukiisen.bsky.social)
+[Instagram](https://www.instagram.com/yukii.sen/)
+[Twitter](https://x.com/notarchivist)
+[Bluesky](https://bsky.app/profile/yukiisen.bsky.social)
 
 <!---
 yukiisen/yukiisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
