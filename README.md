@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @yukiisen
-- 👀 I’m interested in apples.
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on, how can you even collaborate with javascript?
-- ⚡ Fun fact: I'm not a failure.
-<!---
-yukiisen/yukiisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Yuki 👋
+
+## 🚀 About Me
+I'm a some sort of developer who enjoys building software. I love exploring new technologies and crafting useless apps.
+
+if I set a repository as public, that means I'm not going to fix it..
+
+## 🔧 Tech Stack
+- **Languages:** Rust, TypeScript, JavaScript, SQL, Bash
+- **Frameworks & Tools:** Angular, Express.js, Actix, Electron and Tauri (beginner)
+- **Databases:** MariaDB, MySQL (mostly), redis and postgresql.
+- **OS & Environment:** Arch Linux, DWM, Vim/Code (still switching)
+
+`It's fine to make it useless as long as it's fun!`
+
+---
+⭐ Feel free to check out my repositories!
+
