@@ -15,6 +15,8 @@ if I set a repository as public, that means I'm not going to fix it..
 
 `It's fine to make it useless as long as it's fun!`
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiisen&exclude_repo=xdots&langs_count=8,anuraghazra.github.io)
+
 ---
 ⭐ Feel free to check out my repositories!
 
