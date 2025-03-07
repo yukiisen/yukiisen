@@ -18,7 +18,7 @@ A lazy person by the way.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=yukiisen&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiisen&theme=radical&exclude_repo=xdots)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiisen&theme=radical&exclude_repo=Xdots)
 
 ---
 ⭐ Feel free to check out my repositories!
