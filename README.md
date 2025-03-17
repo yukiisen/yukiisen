@@ -5,6 +5,8 @@ I'm a some sort of developer who enjoys building software. I love exploring new 
 
 A lazy person by the way.
 
+Switching to rust BTW.
+
 ## 🔧 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=actix,angular,arch,bash,bun,css,dart,discord,electron,express,flutter,git,html,js,linux,mysql,nodejs,obsidian,postgres,pug,redis,rust,sqlite,tauri,ts,vim,vite,vscode)](https://skillicons.dev)
 
