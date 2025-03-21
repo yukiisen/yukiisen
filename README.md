@@ -15,7 +15,7 @@ Switching to rust BTW.
 - **Databases:** MariaDB, MySQL (mostly), redis and postgresql.
 - **OS & Environment:** Arch Linux, DWM, Vim
 
-`It's fine to make it useless as long as it's fun!`
+`I have a jar of dirt!`
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=yukiisen&theme=radical)
@@ -23,6 +23,4 @@ Switching to rust BTW.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiisen&theme=radical&exclude_repo=Xdots)
 
 ---
-⭐ Feel free to check out my repositories!
-
-Sorry, I mean please don't check my repositories..
+don't check my repositories..
