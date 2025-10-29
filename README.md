@@ -3,7 +3,7 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Touch+Some+Grass)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="center" style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiisen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=Xdots" height="150" alt="languages graph"  />
 
 
