@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Yuki and I'm not a bot</h2>
 
-###
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Touch+Some+Grass)](https://git.io/typing-svg)
 
 <div align="center">
@@ -12,5 +11,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/yukiisen/yukiisen/output/snake.svg" alt="Snake animation" />
-
-###
