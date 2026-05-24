@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yuki and I'm not a bot</h2>
+<h2 align="left">Bonjour! My name is Yuki and I'm not a bot</h2>
 
 ---
 
