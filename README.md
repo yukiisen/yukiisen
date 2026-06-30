@@ -11,5 +11,4 @@
 </div>
 
 ---
-
-Turns out studying is much more fun than studying.
+<img src="https://osekai.net/profiles/img/banner.svg?id=38259896" />
